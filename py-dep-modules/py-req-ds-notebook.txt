@@ -1,0 +1,13 @@
+﻿##### PYTHON REQUIREMENTS #####
+#
+### NOTEBOOK ###
+jupyter
+ipywidgets
+ipyparallel
+ipyvega
+nbconvert
+nbformat
+nbviewer
+altair
+#
+##### END #####

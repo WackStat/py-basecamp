@@ -1,0 +1,33 @@
+﻿##### PAYTHON REQUIREMENTS #####
+#
+### SYSTEM ###
+setuptools
+virtualenv
+cython
+pyinstaller
+#
+### HOLY STUFF ###
+nose
+numpy
+scipy
+sympy
+ipython
+### ENHANCEMENT ###
+toolz
+cytoolz 
+traitlets
+datashape
+multipledispatch
+### DATA ###
+pandas
+SQLAlchemy
+json
+pyyaml
+odo
+blaze
+### STATS ###
+matplotlib
+seaborn
+statsmodels
+#
+##### END #####

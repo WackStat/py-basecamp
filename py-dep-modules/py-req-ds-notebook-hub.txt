@@ -1,0 +1,16 @@
+﻿##### PYTHON REQUIREMENTS #####
+#
+### NOTEBOOK SERVER ###
+# Depedency modules for jupyterhub
+requests
+traitlets
+sqlalchemy
+tornado
+jinja2
+escapism 
+docker-py
+jupyterhub
+oauthenticator
+dockerspawner
+#
+##### END #####

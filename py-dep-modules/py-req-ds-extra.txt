@@ -1,0 +1,29 @@
+﻿##### PYTHON REQUIREMENTS #####
+#
+### MORE DATA ###
+sqlite3
+h5py
+pytables
+lxml
+### LEARNING ###
+scikit-learn
+keras
+### SENTIMENT ###
+beautifulsoup4
+scrapy
+nltk
+#
+### BIG DATA AND NOSQL ###
+boto
+kafka
+pymango
+pywebhdfs
+pyspark
+pyhive
+#
+### WEB ###
+Requests
+flask
+#
+##### END #####
+
